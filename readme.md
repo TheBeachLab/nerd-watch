@@ -14,8 +14,8 @@ This is a kokopelli 0.05 and assembly port of [Sam DeRose's Nerd Watch](http://w
 
 ### Fabrication
 
-The most straight forward to mill the circuit board is using the [fab modules](http://kokompe.cba.mit.edu/). Inside the **milling_images** folder you will find `.png` files for the traces, holes, cutout and side b traces. You should execute them in this order.
+The most straight forward to mill the circuit board is using [mods](https://mods.beachlab.org/). Inside the **milling_images** folder you will find `.png` files for the traces, holes, cutout and side b traces. You should execute them in this order.
 
-![](./doc_img/fabmodules.jpg)
+![](./doc_img/mods.webp)
 
 Also I included the [Gimp](https://www.gimp.org/) `.xcf` files in case you want to personalise the text on the watch.

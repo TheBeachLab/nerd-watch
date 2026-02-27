@@ -4,7 +4,7 @@
 
 This is a kokopelli 0.05 and assembly port of [Sam DeRose's Nerd Watch](http://www.instructables.com/id/The-Nerd-Watch/). There are 2 reasons why I felt the need to port the _nerds watch_. The first one is because I _only_ use kokopelli and eagle makes me feel sick. And the second one is because with Sam's code the watch only runs for three days.
 
-![](./doc_img/watch.jpg)
+![](./doc_img/nerdwatch.webp)
 
 ### Folder structure
 
